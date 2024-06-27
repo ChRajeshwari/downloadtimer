@@ -1,0 +1,34 @@
+body{
+    min-height: 100vh;
+   text-align: center;
+  margin-top: 300px;
+
+}
+
+.downloadbtn{
+    padding:20px;
+    background-color: aquamarine;
+    font-size: 20px;
+    border-radius: 5px;  
+}
+.downloadbtn:hover{
+    background-color: rgb(80, 185, 150);
+}
+.wait-text{
+    margin-top:20px;
+    display: none;
+}
+.download-text{
+  font-size: 18px;
+  margin-top:10px;
+  display: none;
+}
+span{
+    color:blue;
+    text-decoration: none;
+}
+.timer{
+    margin-top:30px;
+    font-size: 18px;
+    display: none;
+}
